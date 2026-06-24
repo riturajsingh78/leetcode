@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/riturajsingh78/leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/riturajsingh78/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/riturajsingh78/leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/riturajsingh78/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
