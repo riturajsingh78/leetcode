@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1793-maximum-score-of-a-good-subarray](https://github.com/riturajsingh78/leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/riturajsingh78/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/riturajsingh78/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/riturajsingh78/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/riturajsingh78/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/riturajsingh78/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -102,12 +103,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/riturajsingh78/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/riturajsingh78/leetcode/tree/master/0835-image-overlap) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/riturajsingh78/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/riturajsingh78/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/riturajsingh78/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/riturajsingh78/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/riturajsingh78/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/riturajsingh78/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/riturajsingh78/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/riturajsingh78/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
