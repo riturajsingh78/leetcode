@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/riturajsingh78/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/riturajsingh78/leetcode/tree/master/0835-image-overlap) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/riturajsingh78/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1706-where-will-the-ball-fall](https://github.com/riturajsingh78/leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/riturajsingh78/leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/riturajsingh78/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/riturajsingh78/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/riturajsingh78/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/riturajsingh78/leetcode/tree/master/0835-image-overlap) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/riturajsingh78/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1706-where-will-the-ball-fall](https://github.com/riturajsingh78/leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/riturajsingh78/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Breadth-First Search
 |  |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/riturajsingh78/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Simulation
+|  |
+| ------- |
+| [1706-where-will-the-ball-fall](https://github.com/riturajsingh78/leetcode/tree/master/1706-where-will-the-ball-fall) |
 <!---LeetCode Topics End-->
