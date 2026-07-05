@@ -3,24 +3,14 @@ public:
     int timeRequiredToBuy(vector<int>& tickets, int k) {
         
         int n = tickets.size();
-        queue<int> q;
+        int time =0;
+        for(int i =0;i <n; i++){
 
-        for(int i=0;i<n;i++){
-            q.push(i);
-        }
-
-        int time = 0;
-        while(!q.empty()){
-            time++;
-            int front = q.front();
-            q.pop();
-            tickets[front]--;
-
-            if(front == k && tickets[front]==0){
-                return time;
+            if(i<=k){
+                time += min(tickets[i],tickets[k]);
             }
-            if(tickets[front]!=0){
-                q.push(front);
+            else{
+                time += min(tickets[k]-1,tickets[i]);  
             }
         }
         return time;
