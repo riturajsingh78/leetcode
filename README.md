@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/riturajsingh78/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1137-n-th-tribonacci-number](https://github.com/riturajsingh78/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/riturajsingh78/leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/riturajsingh78/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## String
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/riturajsingh78/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [3620-network-recovery-pathways](https://github.com/riturajsingh78/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/riturajsingh78/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/riturajsingh78/leetcode/tree/master/0404-sum-of-left-leaves) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/riturajsingh78/leetcode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
