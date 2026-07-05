@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1793-maximum-score-of-a-good-subarray](https://github.com/riturajsingh78/leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/riturajsingh78/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/riturajsingh78/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2073-time-needed-to-buy-tickets](https://github.com/riturajsingh78/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/riturajsingh78/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/riturajsingh78/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/riturajsingh78/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -144,10 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/riturajsingh78/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1706-where-will-the-ball-fall](https://github.com/riturajsingh78/leetcode/tree/master/1706-where-will-the-ball-fall) |
+| [2073-time-needed-to-buy-tickets](https://github.com/riturajsingh78/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Queue
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/riturajsingh78/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/riturajsingh78/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Topological Sort
 |  |
 | ------- |
