@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/riturajsingh78/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/riturajsingh78/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/riturajsingh78/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/riturajsingh78/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -158,9 +159,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/riturajsingh78/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/riturajsingh78/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/riturajsingh78/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/riturajsingh78/leetcode/tree/master/0404-sum-of-left-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/riturajsingh78/leetcode/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
