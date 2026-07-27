@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/riturajsingh78/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/riturajsingh78/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/riturajsingh78/leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riturajsingh78/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/riturajsingh78/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1706-where-will-the-ball-fall](https://github.com/riturajsingh78/leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/riturajsingh78/leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/riturajsingh78/leetcode/tree/master/1288-remove-covered-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riturajsingh78/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/riturajsingh78/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/riturajsingh78/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riturajsingh78/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/riturajsingh78/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/riturajsingh78/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
