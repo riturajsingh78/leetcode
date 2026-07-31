@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/riturajsingh78/leetcode/tree/master/0001-two-sum) |
 | [0135-candy](https://github.com/riturajsingh78/leetcode/tree/master/0135-candy) |
+| [0506-relative-ranks](https://github.com/riturajsingh78/leetcode/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/riturajsingh78/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0766-toeplitz-matrix](https://github.com/riturajsingh78/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/riturajsingh78/leetcode/tree/master/0835-image-overlap) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/riturajsingh78/leetcode/tree/master/0506-relative-ranks) |
 | [1288-remove-covered-intervals](https://github.com/riturajsingh78/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riturajsingh78/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/riturajsingh78/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/riturajsingh78/leetcode/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riturajsingh78/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/riturajsingh78/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/riturajsingh78/leetcode/tree/master/3620-network-recovery-pathways) |
