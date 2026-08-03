@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/riturajsingh78/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/riturajsingh78/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2073-time-needed-to-buy-tickets](https://github.com/riturajsingh78/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/riturajsingh78/leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/riturajsingh78/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/riturajsingh78/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/riturajsingh78/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/riturajsingh78/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/riturajsingh78/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1706-where-will-the-ball-fall](https://github.com/riturajsingh78/leetcode/tree/master/1706-where-will-the-ball-fall) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/riturajsingh78/leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/riturajsingh78/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Breadth-First Search
 |  |
