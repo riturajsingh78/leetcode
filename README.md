@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/riturajsingh78/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/riturajsingh78/leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/riturajsingh78/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/riturajsingh78/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -245,12 +246,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/riturajsingh78/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/riturajsingh78/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/riturajsingh78/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0623-add-one-row-to-tree](https://github.com/riturajsingh78/leetcode/tree/master/0623-add-one-row-to-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/riturajsingh78/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/riturajsingh78/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/riturajsingh78/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0623-add-one-row-to-tree](https://github.com/riturajsingh78/leetcode/tree/master/0623-add-one-row-to-tree) |
 ## Memoization
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/riturajsingh78/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/riturajsingh78/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/riturajsingh78/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/riturajsingh78/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
