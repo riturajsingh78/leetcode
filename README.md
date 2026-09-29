@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/riturajsingh78/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0623-add-one-row-to-tree](https://github.com/riturajsingh78/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0872-leaf-similar-trees](https://github.com/riturajsingh78/leetcode/tree/master/0872-leaf-similar-trees) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/riturajsingh78/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1971-find-if-path-exists-in-graph](https://github.com/riturajsingh78/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/riturajsingh78/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/riturajsingh78/leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/riturajsingh78/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0623-add-one-row-to-tree](https://github.com/riturajsingh78/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0872-leaf-similar-trees](https://github.com/riturajsingh78/leetcode/tree/master/0872-leaf-similar-trees) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/riturajsingh78/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Binary Tree
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/riturajsingh78/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0623-add-one-row-to-tree](https://github.com/riturajsingh78/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0872-leaf-similar-trees](https://github.com/riturajsingh78/leetcode/tree/master/0872-leaf-similar-trees) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/riturajsingh78/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Memoization
 |  |
 | ------- |
