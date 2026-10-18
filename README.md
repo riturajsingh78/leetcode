@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/riturajsingh78/leetcode/tree/master/0001-two-sum) |
 | [0523-continuous-subarray-sum](https://github.com/riturajsingh78/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0652-find-duplicate-subtrees](https://github.com/riturajsingh78/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/riturajsingh78/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/riturajsingh78/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/riturajsingh78/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/riturajsingh78/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/riturajsingh78/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0623-add-one-row-to-tree](https://github.com/riturajsingh78/leetcode/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/riturajsingh78/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0872-leaf-similar-trees](https://github.com/riturajsingh78/leetcode/tree/master/0872-leaf-similar-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/riturajsingh78/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/riturajsingh78/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/riturajsingh78/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/riturajsingh78/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0623-add-one-row-to-tree](https://github.com/riturajsingh78/leetcode/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/riturajsingh78/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0872-leaf-similar-trees](https://github.com/riturajsingh78/leetcode/tree/master/0872-leaf-similar-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/riturajsingh78/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/riturajsingh78/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/riturajsingh78/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/riturajsingh78/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0623-add-one-row-to-tree](https://github.com/riturajsingh78/leetcode/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/riturajsingh78/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0872-leaf-similar-trees](https://github.com/riturajsingh78/leetcode/tree/master/0872-leaf-similar-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/riturajsingh78/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/riturajsingh78/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
