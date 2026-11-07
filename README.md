@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/riturajsingh78/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/riturajsingh78/leetcode/tree/master/0013-roman-to-integer) |
 | [0523-continuous-subarray-sum](https://github.com/riturajsingh78/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/riturajsingh78/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/riturajsingh78/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/riturajsingh78/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/riturajsingh78/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/riturajsingh78/leetcode/tree/master/0013-roman-to-integer) |
 | [0486-predict-the-winner](https://github.com/riturajsingh78/leetcode/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/riturajsingh78/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/riturajsingh78/leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/riturajsingh78/leetcode/tree/master/0013-roman-to-integer) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/riturajsingh78/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/riturajsingh78/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/riturajsingh78/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
