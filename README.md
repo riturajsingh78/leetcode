@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/riturajsingh78/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/riturajsingh78/leetcode/tree/master/0013-roman-to-integer) |
+| [0387-first-unique-character-in-a-string](https://github.com/riturajsingh78/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/riturajsingh78/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/riturajsingh78/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/riturajsingh78/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/riturajsingh78/leetcode/tree/master/0013-roman-to-integer) |
+| [0387-first-unique-character-in-a-string](https://github.com/riturajsingh78/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/riturajsingh78/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/riturajsingh78/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/riturajsingh78/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/riturajsingh78/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/riturajsingh78/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/riturajsingh78/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/riturajsingh78/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/riturajsingh78/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/riturajsingh78/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/riturajsingh78/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Topological Sort
