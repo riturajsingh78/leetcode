@@ -1,22 +1,25 @@
 class Solution {
 public:
-    long long reverse(long long x) {
-       
-       long long rev = 0;
-       long long ori = x;
-       if(x < 0) 
-         x=-x;
-       while( x >=1){
-        long long num = x%10;
-        rev = (rev * 10)+num;
-        x=x/10;
-       }
+    int reverse(int x) {
 
-       if (rev > INT_MAX || rev < INT_MIN)
-            return 0;
-        else if(ori < 0) return -rev;    
-        else 
-          return rev;
+        int rev = 0;
 
+        while(x != 0) {
+
+            int digit = x % 10;
+            x = x / 10;
+
+            if(rev > INT_MAX / 10 ||
+              (rev == INT_MAX / 10 && digit > 7))
+                return 0;
+
+            if(rev < INT_MIN / 10 ||
+              (rev == INT_MIN / 10 && digit < -8))
+                return 0;
+
+            rev = rev * 10 + digit;
+        }
+
+        return rev;
     }
 };
