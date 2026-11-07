@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/riturajsingh78/leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/riturajsingh78/leetcode/tree/master/0009-palindrome-number) |
 | [0486-predict-the-winner](https://github.com/riturajsingh78/leetcode/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/riturajsingh78/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/riturajsingh78/leetcode/tree/master/1137-n-th-tribonacci-number) |
