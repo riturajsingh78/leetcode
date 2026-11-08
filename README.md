@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/riturajsingh78/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/riturajsingh78/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2073-time-needed-to-buy-tickets](https://github.com/riturajsingh78/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/riturajsingh78/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/riturajsingh78/leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/riturajsingh78/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/riturajsingh78/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/riturajsingh78/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/riturajsingh78/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/riturajsingh78/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/riturajsingh78/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/riturajsingh78/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/riturajsingh78/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/riturajsingh78/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/riturajsingh78/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/riturajsingh78/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/riturajsingh78/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/riturajsingh78/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/riturajsingh78/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/riturajsingh78/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riturajsingh78/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/riturajsingh78/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/riturajsingh78/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/riturajsingh78/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/riturajsingh78/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/riturajsingh78/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
